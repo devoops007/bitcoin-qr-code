@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Bitcoin-QR
+QR generator for Bitcoin network. Ultimate solution for creating QR codes for a fast and secure crypto transactions. The platform allows everyone to create a QR codes for Bitcoin, Ethereum, Ripple and other popular cryptocurrencies in just a few clicks. Also supports Toncoin, Solana, Dogecoin, Binance coin (BTC, ETH, XRP, BNB, TRX, TON, DOGE, SOL).
 
-## Getting Started
+## Description
 
-First, run the development server:
+**Bitcoin QR Generator** is a website that generates QR codes for the most popular **Crypto wallets** using JavaScript and HTML technologies. The project allows you to create QR codes and use it for a fast and convenient payments on the Bitcoin network and other Blockchains.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project was developed to help users everyone generate QR codes without the need to install any additional software. The crypto QR generator uses cryptographic libraries to create a QR codes, and works directly in your browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Generate a QR** codes.
+- Option to set a custom crpto amount.
+- Easy to use: generate QR directly in your browser.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## How to Use
 
-## Learn More
+1. Go to the [**Bitcoin Generator**](https://btc-qr-generator.com) website.
+2. Enter the required wallet address.
+3. Optionally enter the crypto amount.
+4. Click the **Generate QR code**.
+5. Image will be generated.
+6. Scan the image directly from the other device to make a payment, or save the image to use it later.
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **HTML5** — structuring the web page.
+- **JavaScript** — QR code generation and user interaction.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Get started now!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[**BTC QR code Generator**](https://btc-qr-generator.com)
